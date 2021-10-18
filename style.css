@@ -1,0 +1,24 @@
+#nav-head{
+    background-color: #8f0505;
+    
+}
+
+
+.ull{
+    color: white;
+   
+}
+.li{
+    color: white;
+    font-size: 2rem;
+}
+.header-nav{
+    color: white;
+}
+#reg{
+    border-radius: 15px;
+}
+#reg:hover{
+    background-color: #8f0505;
+    color: white;
+}
